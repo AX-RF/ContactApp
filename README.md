@@ -16,14 +16,12 @@ Here is a visual overview of the main features and screens of the Contacts App:
 
 | Screen Name | Description | Image |
 | :--- | :--- | :--- |
-| **Contact List (Dark Mode)** | The main screen showing the list of contacts in the Dark theme. | ![Dark Mode](images/dark.jpg) |
-| **Contact List (Light Mode)** | The main screen showing the list of contacts in the Light theme. | ![Light Mode](images/light.jpg) |
-| **Contact Details Modal** | Pop-up displaying a contact's name and phone number with options to Close or Call. | ![Contact Details Modal](images/call.jpg) |
-| **Contact Options** | Modal with actions: Edit, Delete, and Call, available on long-press or tap. | ![Contact Options](images/select.jpg) |
-| **Add New Contact Screen** | Input form for creating a brand new contact. | ![Add New Contact Screen](images/add.jpg) |
-| **Edit Contact Screen** | Form for modifying an existing contact, including photo and email fields. | ![Edit Contact Screen](images/edite.jpg) |
-
-**Note:** *Replace the image paths with the actual URLs if your images are hosted online (e.g., GitHub, Imgur).*
+| **Contact List (Dark Mode)** | The main screen showing the list of contacts in the Dark theme. | <img src="images/dark.jpg" width="200"/> |
+| **Contact List (Light Mode)** | The main screen showing the list of contacts in the Light theme. | <img src="images/light.jpg" width="200"/> |
+| **Contact Details Modal** | Pop-up displaying a contact's name and phone number with options to Close or Call. | <img src="images/call.jpg" width="200"/> |
+| **Contact Options** | Modal with actions: Edit, Delete, and Call, available on long-press or tap. | <img src="images/select.jpg" width="200"/> |
+| **Add New Contact Screen** | Input form for creating a brand new contact. | <img src="images/add.jpg" width="200"/> |
+| **Edit Contact Screen** | Form for modifying an existing contact, including photo and email fields. | <img src="images/edite.jpg" width="200"/> |
 
 
 ## ✨ Features
